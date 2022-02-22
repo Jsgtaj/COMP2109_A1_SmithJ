@@ -1,0 +1,35 @@
+body {
+  font-family: "Inter", Arial, Helvetica, sans-serif;
+  background-color: whitesmoke !important;
+}
+/* Header */
+#logo {
+  margin: auto;
+  height: 10rem;
+  width: auto;
+  margin-top: 1rem;
+}
+#menu-main {
+  list-style: none;
+  text-align: center;
+  margin-top: 1rem;
+  padding-left: 0;
+  display: flex;
+  justify-content: center;
+}
+#menu-main li {
+  margin: auto 1rem auto 1rem;
+}
+#menu-main a {
+  font-size: 2rem;
+  text-decoration: unset;
+}
+#menu-main a:hover {
+  text-decoration: underline;
+}
+/* Main */
+/* ACF uses inline styling */
+/* Footer */
+.site-info {
+  text-align: center;
+}
