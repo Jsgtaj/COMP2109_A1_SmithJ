@@ -28,6 +28,10 @@ body {
   text-decoration: underline;
 }
 /* Main */
+.entry-title,
+.page-title {
+  text-align: center;
+}
 /* ACF uses inline styling */
 /* Footer */
 .site-info {
